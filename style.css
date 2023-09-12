@@ -23,4 +23,30 @@ body{
 }
 .center{
     width:600px;
+    background-color:rgb(244, 205, 236);
+    height: 600px;
+    text-align: center;
+    border-radius: 10px;
+}
+.content{
+    padding: 20px;
+}
+h1{
+    color:rgb(109, 91, 57);
+    
+}
+.content h2, p{
+    font-weight: lighter;
+    letter-spacing: 0,2px;
+    color:rgb(99, 89, 70);
+    width:90%;
+    margin:10px auto;
+
+}
+.content h2 {
+    color:rgb(109, 91, 57);
+}
+.content h3{
+    margin-top: 20px;
+    color:rgb(109, 91, 57);
 }
